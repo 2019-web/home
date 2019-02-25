@@ -6,10 +6,11 @@
 
 ## 实验
 
-- 实验一 : Angular 2 框架 （选project_mini_edu、project_blockly的同学做这个）
-- 实验一 : Three.js 与 XML （选project_vr的同学做这个）
-- 实验二 : Spring Boot 与 MyBatis
-- 实验三 : Docker环境搭建
+- 实验一 : Docker在云上环境搭建
+- 实验二 : Angular 2 框架 （选project_mini_edu、project_blockly的同学做这个）
+- 实验二 : Three.js 与 XML （选project_vr的同学做这个）
+- 实验三 : Spring Boot 与 MyBatis
+
 
 ## 期末Project
 
