@@ -5,7 +5,9 @@
 ## 实验
 
 - 实验一 : Docker在云上环境搭建
+  实验二3个选择其一
 - 实验二 : Angular 2 框架 （选project_mini_edu、project_blockly的同学做这个）
+- 实验二 : 微信小程序 (选project_mini_edu的同学做这个 )
 - 实验二 : Three.js 与 XML （选project_vr的同学做这个）
 - 实验三 : Spring Boot 与 MyBatis
 
