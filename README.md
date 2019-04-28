@@ -11,7 +11,7 @@
 1. 实验二 : Angular 框架(lab2-Angular) (选project_mini_edu、project_blockly的同学做这个)
 
 ```
-https://github.com/2019-web/lab2-Angular.git
+https://github.com/2019-web/lab2-Angular
 ```
 
 2. 实验二 : 微信小程序 (lab2-MiniProgram)(选project_mini_edu的同学做这个 )
