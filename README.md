@@ -6,7 +6,7 @@
 
 ### 实验一 : Docker在云上环境搭建
   
-###  实验二3个选择其一
+###  实验二 : 3个选择其一
 
 1. 实验二 : Angular 框架(lab2-Angular) (选project_mini_edu、project_blockly的同学做这个)
 
