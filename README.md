@@ -15,13 +15,15 @@
 
 ###  实验二 : 3个选择其一
 
-1. 实验二 : Angular 框架(lab2-Angular) (选project_blockly的同学做这个)
+任选其一
+
+#### 实验二 : Angular 框架(lab2-Angular) (选project_blockly的同学做这个)
 
 文档:
 
 [https://github.com/2019-web/lab2-Angular](https://github.com/2019-web/lab2-Angular)
 
-代码库:
+相关代码库:
 
 [https://github.com/2019-web/Angular-Material](https://github.com/2019-web/Angular-Material)
 
@@ -30,20 +32,20 @@
 [https://github.com/2019-web/lab2-angular-code-part2](https://github.com/2019-web/lab2-angular-code-part2)
 
 
-2. 实验二 : 微信小程序 (lab2-MiniProgram)(选project_mini_edu的同学做这个 )
+#### 实验二 : 微信小程序 (lab2-MiniProgram)(选project_mini_edu的同学做这个 )
 
 文档:
 
 [https://github.com/2019-web/lab2-MiniProgram](https://github.com/2019-web/lab2-MiniProgram)
 
-代码库:
+相关代码库:
 
 [https://github.com/2019-web/mini-edu-lab-frontend-code](https://github.com/2019-web/mini-edu-lab-frontend-code)
 
 [https://github.com/2019-web/mini-edu-lab-server-code](https://github.com/2019-web/mini-edu-lab-server-code)
 
 
-3. 实验二 : Three.js 与 XML (lab2-Three.js)（选project_vr的同学做这个）
+#### 实验二 : Three.js 与 XML (lab2-Three.js)（选project_vr的同学做这个）
 
 文档:
 
