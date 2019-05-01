@@ -8,7 +8,7 @@
   
 文档:
 
-![https://github.com/2019-web/lab1-Docker](https://github.com/2019-web/lab1-Docker)
+[https://github.com/2019-web/lab1-Docker](https://github.com/2019-web/lab1-Docker)
 
 相关代码库:
 
