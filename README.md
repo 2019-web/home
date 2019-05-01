@@ -6,7 +6,11 @@
 
 ### 实验一 : Docker在云上环境搭建
   
-代码库:
+文档:
+
+![https://github.com/2019-web/lab1-Docker](https://github.com/2019-web/lab1-Docker)
+
+相关代码库:
 
 [https://github.com/2019-web/docker-demo-java-tomcat](https://github.com/2019-web/docker-demo-java-tomcat)
 
