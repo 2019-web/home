@@ -8,9 +8,9 @@
   
 代码库:
 
-![https://github.com/2019-web/docker-demo-java-tomcat](https://github.com/2019-web/docker-demo-java-tomcat)
+[https://github.com/2019-web/docker-demo-java-tomcat](https://github.com/2019-web/docker-demo-java-tomcat)
 
-![https://github.com/2019-web/base-tomcat-maven](https://github.com/2019-web/base-tomcat-maven)
+[https://github.com/2019-web/base-tomcat-maven](https://github.com/2019-web/base-tomcat-maven)
 
 
 ###  实验二 : 3个选择其一
@@ -19,7 +19,7 @@
 
 文档:
 
-![https://github.com/2019-web/lab2-Angular](https://github.com/2019-web/lab2-Angular)
+[https://github.com/2019-web/lab2-Angular](https://github.com/2019-web/lab2-Angular)
 
 代码库:
 
