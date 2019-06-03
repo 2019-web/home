@@ -86,6 +86,10 @@
 
 [https://github.com/2019-web/project_blockly](https://github.com/2019-web/project_blockly)
 
+demo提供:
+
+[https://github.com/2019-web/angular-blockly](https://github.com/2019-web/angular-blockly)
+
 
 ## 平时Presentation
 
